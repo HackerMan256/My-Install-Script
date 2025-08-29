@@ -51,6 +51,8 @@ function_ask htop
 function_ask btop
 function_ask git
 function_ask dosbox
+function_ask obs-studio
+
 
 for PACOTE in "${ARRAY[@]}"; do
 	sudo apt install "$PACOTE" -y
