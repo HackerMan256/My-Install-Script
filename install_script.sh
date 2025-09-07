@@ -53,6 +53,7 @@ function_ask git
 function_ask dosbox
 function_ask obs-studio
 function_ask tmux
+function_ask geany
 
 
 for PACOTE in "${ARRAY[@]}"; do
