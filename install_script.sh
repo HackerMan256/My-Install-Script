@@ -54,6 +54,7 @@ function_ask dosbox
 function_ask obs-studio
 function_ask tmux
 function_ask geany
+function_ask iftop
 
 
 for PACOTE in "${ARRAY[@]}"; do
